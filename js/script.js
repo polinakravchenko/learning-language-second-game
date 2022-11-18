@@ -40,7 +40,7 @@ const hardcards = [
     {src: "./img/qualification.png", word: "Qualification", translate: "кваліфікація"},
     {src: "./img/schedule.png", word: "Schedule", translate: "графік"},
     {src: "./img/victory.png", word: "Victory", translate: "перемога"},
-    {src: "./img/web-development.png", word: "Web-development", translate: "веброзробник"},
+    {src: "./img/web-development.png", word: "Web-developer", translate: "веброзробник"},
 ]
 
 const easyButton = document.getElementById("easybutt");
